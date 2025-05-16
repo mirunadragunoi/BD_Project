@@ -52,10 +52,12 @@ S-au implementat următoarele tipuri de interogări și operații:
 ## 📊 Cereri SQL importante
 
 Exemple de fișiere SQL incluse:
-- `create_tables.sql` – Script pentru crearea tuturor tabelelor
-- `insert_data.sql` – Date de test
-- `queries.sql` – Cereri complexe (`SELECT`, `UPDATE`, `DELETE`)
-- `views.sql` – Vederi pentru rapoarte predefinite
+- `scheme_relationale.sql` - Detaliile schemelor relaționale
+- `normalizare.sql` - Modul în care s-a realizat normalizarea în FN3
+- `create_tabele.sql` – Script pentru crearea tuturor tabelelor
+- `insert_tabele.sql` – Inserarea datelor de test
+- `select_tabele.sql` – Cereri complexe legate de `SELECT` `UPDATE`, `DELETE`
+- `update_tabele.sql` – Cereri complexe legate de `UPDATE`, `DELETE`
 
 ---
 
