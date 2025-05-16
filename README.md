@@ -56,7 +56,7 @@ Exemple de fișiere SQL incluse:
 - `normalizare.sql` - Modul în care s-a realizat normalizarea în FN3
 - `create_tabele.sql` – Script pentru crearea tuturor tabelelor
 - `insert_tabele.sql` – Inserarea datelor de test
-- `select_tabele.sql` – Cereri complexe legate de `SELECT` `UPDATE`, `DELETE`
+- `select_tabele.sql` – Cereri complexe legate de `SELECT`
 - `update_tabele.sql` – Cereri complexe legate de `UPDATE`, `DELETE`
 
 ---
